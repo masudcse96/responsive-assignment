@@ -1,0 +1,62 @@
+@media (max-width: 768px){
+  .small-devices-responsive{
+    display: inline-block;
+  }
+}
+
+
+.btn-style{
+  background-color: rgb(65, 67, 226);
+  padding: 5px;
+  width: 110px;
+  border-radius: 5px;
+}
+
+
+.product-sec-img{
+  width: 80%;
+}
+.fesion-name{
+  font-size: 40px;
+  color: midnightblue;
+  
+}
+
+
+.heading{
+  text-align: center;
+  font-size: 35px;
+  border-bottom: 2px dotted #fff;
+}
+
+
+.btn-info{
+  width: 50%;
+  letter-spacing: 2px;
+  background: transparent;
+  transition: all 0.5s ease-in-out;
+}
+
+.btn-info:hover{
+  transform: scale(1.05);
+}
+
+
+
+hr{
+  width: 80%;
+}
+
+.media ul li a{
+  color: #fff;
+  float: left;
+  font-family: monospace;
+  font-size: 22px;
+  margin-left: 23px;
+  margin-right: 10px;
+  transition: 0.5s ease-in-out;
+}
+
+.media ul li a:hover{
+  color: #999;
+}
